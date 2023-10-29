@@ -4,3 +4,5 @@ let link = document.querySelector('.title');
 link.onclick = function() {
     menu.classList.toggle('open');
 };
+
+// new commit 1
