@@ -16,3 +16,5 @@ const n = {
 let i;
 
 let f;
+
+const newArr = []
