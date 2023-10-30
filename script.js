@@ -4,3 +4,11 @@ let link = document.querySelector('.title');
 link.onclick = function() {
     menu.classList.toggle('open');
 };
+
+function newFunc(n) {
+    return n = true
+}
+
+const n = {
+    list: 4,
+}
