@@ -12,3 +12,7 @@ function newFunc(n) {
 const n = {
     list: 4,
 }
+
+let i;
+
+let f;
